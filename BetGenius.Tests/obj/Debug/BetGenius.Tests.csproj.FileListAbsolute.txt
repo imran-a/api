@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\bin\Debug\BetGenius.Tests.dll
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\bin\Debug\BetGenius.Tests.pdb
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\bin\Debug\BetGenius.exe
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\bin\Debug\nunit.framework.dll
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\bin\Debug\BetGenius.pdb
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\bin\Debug\nunit.framework.xml
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\obj\Debug\BetGenius.Tests.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\obj\Debug\BetGenius.Tests.dll
+C:\inetpub\wwwroot\BetGenius\BetGenius.Tests\obj\Debug\BetGenius.Tests.pdb

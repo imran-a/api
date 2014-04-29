@@ -1,0 +1,12 @@
+﻿{
+    "homeTeam": "Nottingham Forest",
+    "awayTeam": "Manchester United",
+        "matchEvents": [
+        { "type": "goal", "team": "home", "minute": 12 },
+        { "type": "goal", "team": "away", "minute": 23 },
+        { "type": "yellowCard", "team": "home", "minute": 26, "player": "Player1" },
+        { "type": "yellowCard", "team": "away", "minute": 36, "player": "Player2" },
+        { "type": "redCard", "team": "home", "minute": 47, "player": "Player3" },
+        { "type": "redCard", "team": "away", "minute": 67, "player": "Player4" }
+    ]
+}

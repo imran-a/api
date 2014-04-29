@@ -1,0 +1,8 @@
+C:\inetpub\wwwroot\BetGenius\BetGenius\bin\Debug\BetGenius.exe.config
+C:\inetpub\wwwroot\BetGenius\BetGenius\bin\Debug\BetGenius.exe
+C:\inetpub\wwwroot\BetGenius\BetGenius\bin\Debug\BetGenius.pdb
+C:\inetpub\wwwroot\BetGenius\BetGenius\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\BetGenius\BetGenius\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\BetGenius\BetGenius\obj\Debug\BetGenius.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\BetGenius\BetGenius\obj\Debug\BetGenius.exe
+C:\inetpub\wwwroot\BetGenius\BetGenius\obj\Debug\BetGenius.pdb
